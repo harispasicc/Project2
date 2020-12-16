@@ -147,6 +147,10 @@ body {
   background: #fff;
   padding: 25px;
 }
+.contactme {
+  margin-left: 180px ;
+  align-items: center;
+}
 
 .resume .resume_right .bold {
   color: burlywood;
@@ -230,3 +234,4 @@ body {
 .resume .resume_right .resume_hobby ul li:last-child:before {
   display: none;
 }
+
